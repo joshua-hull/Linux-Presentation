@@ -3,7 +3,7 @@ Linux-Presentation
 
 Clemson ACM Linux Intro Presentation
 
-Rendered using infews/keydown
+Rendered using (http://github.com/infews/keydown)[infews/keydown]
 
 # Compiling
 * gem install keydown
